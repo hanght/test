@@ -1,0 +1,49 @@
+
+ [
+      {
+        "name": "fstring1",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "string null"
+      },
+      {
+        "name": "fstring2",
+        "type": "STRING",
+        "mode": "REQUIRED",
+        "description": "string required"
+      },
+      {
+        "name": "fstring3",
+        "type": "STRING",
+        "mode": "REPEATED"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "fInt1",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "fFloat1",
+        "type": "FLOAT"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "fDate",
+        "type": "DATE"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "fTime",
+        "type": "TIME"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "fDateTime",
+        "type": "DATETIME"
+      }
+
+  ]
+
+
+

@@ -1,0 +1,20 @@
+{
+	"MFACODE":
+	[
+		{
+			"OID":"6",
+			"FACODENAME":"LCD",
+			"FACODEVALUE":"Malaysia",
+			"DESCRIPTION":"LCD",
+			"STATUSFLAG":"1",
+			"UPDATEBY":"20050102",
+			"LASTUPDATE":"12/21/2007 2:58:54 PM",
+			"SHIFTTYPE":0,
+			"SHIFTLIST":"DAY|NIGHT",
+			"GROUPTYPE":0,
+			"GROUPLIST":"A|B|C",
+			"FACODE_AX":"LCD",
+			"FACODENAME_AX":"LCD"
+		},
+	]
+}
